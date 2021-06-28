@@ -12,7 +12,7 @@ output:
     latex_engine: xelatex
     dev: cairo_pdf
     highlight: tango
-    keep_tex: true
+    keep_tex: false
     slide_level: 2
 classoption: "aspectratio = 169"
 ---
